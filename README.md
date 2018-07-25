@@ -31,6 +31,6 @@ Implementation:
 - Copy the modules_footer_crazy_egg.json into ClicShopping/Work/Cache/Github (manual installation)
 
 
-marketplace link : https://www.clicshopping.org/forum/files/file/49-modules-footer-crazy-egg/
+marketplace link : https://www.clicshopping.org/forum/files/file/43-modules-footer-crazy-egg/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_crazy_egg/blob/master/ModuleInfosJson/image.png)
